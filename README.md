@@ -5,3 +5,6 @@ Following concepts are impleted in this app -:
 * Navigatoin Drawer for letting user to navigate across different fragments.
 * Recycler view to display the list of books
 * Storing and fetching data from SQLite database.
+
+# Screenshots
+![Dashboard](/repository/app/src/main/ScreenShots/Dashboard.png?raw=true "Dashboard page")
