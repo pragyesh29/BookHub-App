@@ -7,4 +7,4 @@ Following concepts are impleted in this app -:
 * Storing and fetching data from SQLite database.
 
 # Screenshots
-![Dashboard](app/src/main/ScreenShots/Dashboard.jpeg)
+![Dashboard]([app/src/main/ScreenShots/Dashboard.jpeg](https://github.com/pragyesh29/BookHub-App/blob/136ed6fe5b6c2e9099c9ac2f89b5cf4485856998/app/src/main/ScreenShots/Dashboard.jpeg)https://github.com/pragyesh29/BookHub-App/blob/136ed6fe5b6c2e9099c9ac2f89b5cf4485856998/app/src/main/ScreenShots/Dashboard.jpeg)
