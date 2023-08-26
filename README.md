@@ -7,4 +7,4 @@ Following concepts are impleted in this app -:
 * Storing and fetching data from SQLite database.
 
 # Screenshots
-![Dashboard](/repository/app/src/main/ScreenShots/Dashboard.png?raw=true "Dashboard page")
+![Dashboard](app/src/main/ScreenShots/Dashboard.jpeg)
